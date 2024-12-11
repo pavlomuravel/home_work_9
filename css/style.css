@@ -252,8 +252,14 @@ footer {
   .conteiner__video_work {
       padding-inline: 20%; 
       max-width: calc(90% - 10%);
-      max-height: calc(90% - 10%);
+      height: 523px; 
   }
+  .conteiner__icon_pley {    
+      margin-left: -588px;
+      margin-top: 198px;
+      width: 95px;
+      height: 95px;}
+
   .heder__content {
       padding-left: 10%;
   }
@@ -336,7 +342,7 @@ footer {
       width: 85px;
       height: 85px;
       margin-left: -582px;
-      margin-top: 166px;
+      margin-top: 152px;
   }
   .main__content_work {
     height: 920px;
